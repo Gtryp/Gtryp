@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gtryp
-- 👀 I’m interested in blockchain business development
-- 🌱 I’m currently learning cryptoeconomics and agile management
-- 💞️ I’m looking to collaborate on building a decentralized and fair future
+- 👋 Hi, I’m @GTryp
+- 👀 I’m interested in FinTech, Blockchain, Open Science and Product Developement among others.
+- 🌱 I’m currently in the path to transitioning to Software Product Management
+- 💞️ I’m looking to collaborate on building  innovative products and hopefully a decentralized and fairer future.
 - 📫 How to reach me ...
 
 <!---
